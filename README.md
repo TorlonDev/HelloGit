@@ -9,7 +9,7 @@ Basic Command
 
 - git commit -a -m "message for commit" 
 (
--a Use for sometime you don't have new file but have change in old file 
+-a Use for sometime you don't have new file but have change in old file (modified) or delete old file. 
 You can use this -a without git add . lazy git add in only changed thing. If do not have new file => git add . + git commit -m = git commit -a -m
 )
 
